@@ -77,7 +77,7 @@ class Materia extends Controller
     {
         $data = $this->model->estadoMateria(0, $id);
         if ($data == 1) {
-            $msg = array('msg' => 'Matéria dado baixa com sucesso!', 'icono' => 'success');
+            $msg = array('msg' => 'Matéria dada baixa com sucesso!', 'icono' => 'success');
         } else {
             $msg = array('msg' => 'Erro ao dar baixa na matéria!', 'icono' => 'error');
         }

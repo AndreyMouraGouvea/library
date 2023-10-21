@@ -48,7 +48,7 @@
     <div class="col-md-6 col-lg-3">
         <div class="widget-small danger coloured-icon"><i class="icon fa fa-hourglass-start fa-3x"></i>
             <a class="info" href="<?php echo base_url; ?>Prestamos">
-                <h4>Emprétimos</h4>
+                <h4>Empréstimos</h4>
                 <p><b><?php echo $data['prestamos']['total'] ?></b></p>
             </a>
         </div>
@@ -64,7 +64,7 @@
     <div class="col-md-6 col-lg-3">
         <div class="widget-small primary coloured-icon"><i class="icon fa fa-cogs fa-3x"></i>
             <a class="info" href="<?php echo base_url; ?>Configuracion">
-                <h6>Configurações</h6>
+                <h4>CONFIGURAÇÕES</h4>
             </a>
         </div>
     </div>

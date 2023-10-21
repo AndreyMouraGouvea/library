@@ -9,6 +9,7 @@
     <link rel="stylesheet" type="text/css" href="<?php echo base_url; ?>Assets/css/main.css">
     <!-- Font-icon css-->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url; ?>Assets/css/font-awesome.min.css">
+    <link rel="shortcut icon" type="x-icon" href="Assets/img/logo.png">
     <title>Iniciar | Sessão</title>
 </head>
 
@@ -18,7 +19,7 @@
     </section>
     <section class="login-content">
         <div class="logo">
-            <h1>Bem-vindo</h1>
+            <h1>Bem-vindo ao Bibliocaart!</h1>
         </div>
         <div class="login-box">
             <form class="login-form" id="frmLogin" onsubmit="frmLogin(event);">

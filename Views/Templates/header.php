@@ -23,13 +23,14 @@
     <link href="<?php echo base_url; ?>Assets/css/datatables.min.css" rel="stylesheet" crossorigin="anonymous" />
     <link href="<?php echo base_url; ?>Assets/css/select2.min.css" rel="stylesheet" />
 	<link href="<?php echo base_url; ?>Assets/css/estilos.css" rel="stylesheet" />
+	<link rel="shortcut icon" type ="x-icon" href="Assets/img/logo.png">
     <!-- Font-icon css-->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url; ?>Assets/css/font-awesome.min.css">
 </head>
 
 <body class="app sidebar-mini">
     <!-- Navbar-->
-    <header class="app-header"><a class="app-header__logo" href="<?php echo base_url; ?>Configuracion/admin">Sistema de Biblioteca</a>
+    <header class="app-header"><a class="app-header__logo" href="<?php echo base_url; ?>Configuracion/admin">BiblioCaart</a>
         <!-- Sidebar toggle button--><a class="app-sidebar__toggle" href="#" data-toggle="sidebar" aria-label="Hide Sidebar"></a>
         <!-- Navbar Right Menu-->
         <ul class="app-nav">

@@ -31,7 +31,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="form-group">
-                                <label for="correo"><i class="fa fa-envelope" aria-hidden="true"></i> Correo Electrónico</label>
+                                <label for="correo"><i class="fa fa-envelope" aria-hidden="true"></i> E-mail</label>
                                 <input id="correo" class="form-control" type="text" name="correo" value="<?php echo $data['correo']; ?>" required placeholder="E-mail">
                             </div>
                         </div>
